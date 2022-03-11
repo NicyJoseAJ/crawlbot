@@ -18,7 +18,6 @@ user@example:~chmod +x *
 user@example:~./crawlbot.sh domain_name
 ```
 
-
 ## Usage
 ```
 example:~./crawlbot.sh domain_name
